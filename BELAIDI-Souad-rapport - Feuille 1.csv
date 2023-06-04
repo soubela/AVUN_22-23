@@ -1,0 +1,7 @@
+ID,SUJET,PRÉDICAT,OBJET
+1,Uberisation,a changé,économie
+2,Uberisation,utilise,application mobile
+3,Application mobile,propose,services de livraison
+4,livreur,livre,commande
+5,Client,commande,la commande
+6,le client,donne,avis
