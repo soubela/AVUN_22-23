@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800mm"
+   height="600mm"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3-dev (77bc73e, 2022-05-18)"
+   sodipodi:docname="Souad-BELAIDI-Concepts.svg"
+   inkscape:export-filename="Souad-BELAIDI-Concepts.svg"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2777545"
+     inkscape:cx="1321.3107"
+     inkscape:cy="1062.089"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient12"
+       x1="-186.40964"
+       y1="217.85027"
+       x2="-27.282495"
+       y2="217.85027"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(211.5435,-26.294216)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11">
+      <stop
+         style="stop-color:#dfd461;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#dfd461;stop-opacity:0;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#dfd461;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="translate(308.10194,143.83956)">
+      <g
+         id="g27">
+        <rect
+           style="fill:url(#linearGradient12);fill-opacity:0.262745;fill-rule:nonzero;stroke:#000000;stroke-width:0.394758;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="rect10"
+           width="158.73239"
+           height="29.287752"
+           x="25.331196"
+           y="176.91202" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:7.05556px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#e0d563;fill-opacity:0.192157;fill-rule:nonzero;stroke:#db0fcb;stroke-width:0.394758;stroke-opacity:0.706767;paint-order:stroke fill markers"
+           x="105.89728"
+           y="190.60284"
+           id="text12"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Apple Color Emoji';-inkscape-font-specification:'Apple Color Emoji Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#008000;stroke:#154d2d;stroke-width:0.394758;stroke-opacity:0.705882"
+             x="105.89728"
+             y="190.60284">MODÉLISATION DES CONCEPTS</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:'Apple Color Emoji';-inkscape-font-specification:'Apple Color Emoji Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#008000;stroke:#154d2d;stroke-width:0.394758;stroke-opacity:0.705882"
+             x="105.89728"
+             y="199.68568"
+             id="tspan14">PROJET UBERISATION </tspan><tspan
+             sodipodi:role="line"
+             style="text-align:center;text-anchor:middle;stroke:#154d2d;stroke-width:0.394758;stroke-opacity:0.705882"
+             x="105.89728"
+             y="208.50513"
+             id="tspan13" /></text>
+      </g>
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#738c44;stroke-width:0.371089;stroke-opacity:0.686275;paint-order:stroke fill markers"
+         id="path1"
+         cx="105.62454"
+         cy="85.277199"
+         rx="94.958885"
+         ry="80.372505" />
+      <g
+         id="g26"
+         transform="translate(-10.273941,-20.547883)">
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.299848;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse5"
+           cx="106.67187"
+           cy="31.461641"
+           rx="23.158472"
+           ry="18.501705"
+           transform="matrix(0.91109783,0.41219019,-0.36418542,0.93132646,0,0)" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:5.65047px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.316143;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="102.53387"
+           y="-7.8019295"
+           id="text17-2-5-5"
+           transform="matrix(0.68372033,0.69819362,-0.66050953,0.78809484,0,0)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.316143"
+             x="102.53387"
+             y="-7.8019295"
+             id="tspan21-1-4">Sécurité</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.316143"
+             x="102.53387"
+             y="-0.73884225"
+             id="tspan19-8-01-5" /></text>
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.292481;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse6"
+           cx="49.040157"
+           cy="112.9953"
+           rx="24.257105"
+           ry="16.80637" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:5.65047px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.316143;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="19.969599"
+           y="108.42816"
+           id="text17-2-5"
+           transform="matrix(0.97721114,-0.00248958,0.10354566,1.0230565,0,0)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.316143"
+             x="19.969599"
+             y="108.42816"
+             id="tspan21-1">Condition</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.316143"
+             x="19.969599"
+             y="115.70218"
+             id="tspan25"> de travail </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.316143"
+             x="19.969599"
+             y="122.76527"
+             id="tspan19-8-01" /></text>
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.303322;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse7"
+           cx="-52.492706"
+           cy="158.80765"
+           rx="25.477509"
+           ry="17.209557"
+           transform="rotate(-47.206518)" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:5.43425px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.304046;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="-92.297318"
+           y="150.15363"
+           id="text17-2-6"
+           transform="matrix(0.64869532,-0.74678537,0.84700526,0.56647373,0,0)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.304046"
+             x="-92.297318"
+             y="150.15363"
+             id="tspan19-8-0">système </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.304046"
+             x="-92.297318"
+             y="157.14931"
+             id="tspan23">de </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.304046"
+             x="-92.297318"
+             y="164.14497"
+             id="tspan24">notation </tspan></text>
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.306658;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse9"
+           cx="71.947319"
+           cy="147.36009"
+           rx="26.271048"
+           ry="17.058855"
+           transform="matrix(0.79804681,-0.60259546,0.60131063,0.79901535,0,0)" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:5.04171px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.282083;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="37.109982"
+           y="153.13065"
+           id="text17-2-1"
+           transform="matrix(0.77581608,-0.6408947,0.69795205,0.71239337,0,0)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.282083"
+             x="37.109982"
+             y="153.13065"
+             id="tspan21-3">Disponibilité</tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.282083"
+             x="37.109982"
+             y="159.43279"
+             id="tspan19-8-9" /></text>
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.496464;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse10"
+           cx="112.66724"
+           cy="110.63407"
+           rx="46.832905"
+           ry="25.08086" />
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.302102;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse11"
+           cx="180.45799"
+           cy="111.13535"
+           rx="25.886728"
+           ry="16.801559" />
+        <ellipse
+           style="fill:#ddd15f;fill-opacity:0.262745;stroke:#366534;stroke-width:0.31923;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           id="ellipse12"
+           cx="197.04477"
+           cy="58.781384"
+           rx="26.653065"
+           ry="18.22123"
+           transform="matrix(0.87622406,0.48190393,-0.47730456,0.87873794,0,0)" />
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:5.34552px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.299081;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="91.485985"
+           y="112.833"
+           id="text16"
+           transform="scale(0.98957239,1.0105375)"><tspan
+             sodipodi:role="line"
+             id="tspan16"
+             style="fill:#090c09;fill-opacity:1;stroke-width:0.299081"
+             x="91.485985"
+             y="112.833">Application DPM</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:7.05556px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.394758;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="161.40048"
+           y="107.87272"
+           id="text17"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.394758"
+             x="161.40048"
+             y="107.87272"
+             id="tspan18">Gestion </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.394758"
+             x="161.40048"
+             y="116.95556"
+             id="tspan19">des taches</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-weight:bold;font-size:7.05556px;font-family:'ITF Devanagari';-inkscape-font-specification:'ITF Devanagari Bold Italic';fill:#b2c4b1;fill-opacity:1;stroke:#366534;stroke-width:0.394758;stroke-opacity:0.705882;paint-order:stroke fill markers"
+           x="185.97005"
+           y="47.988873"
+           id="text17-2"
+           transform="rotate(31.281751)"><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.394758"
+             x="185.97005"
+             y="47.988873"
+             id="tspan18-3">Salaire </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.394758"
+             x="185.97005"
+             y="57.071709"
+             id="tspan21">équitable </tspan><tspan
+             sodipodi:role="line"
+             style="stroke-width:0.394758"
+             x="185.97005"
+             y="65.891159"
+             id="tspan19-8" /></text>
+      </g>
+    </g>
+  </g>
+</svg>
